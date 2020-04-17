@@ -1,0 +1,5 @@
+#### mikx.xyz
+192.168.0.18 www.mikx.xyz
+192.168.0.18 wiki.mikx.xyz
+192.168.0.18 forum.mikx.xyz
+192.168.0.18 mail.mikx.xyz
